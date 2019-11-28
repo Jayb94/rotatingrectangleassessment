@@ -1,0 +1,13 @@
+C:\Users\jabulaniz\source\repos\Derivco.FullStack.Assignment\RectanglesBuilderTests\bin\Debug\RectanglesBuilderTests.dll
+C:\Users\jabulaniz\source\repos\Derivco.FullStack.Assignment\RectanglesBuilderTests\bin\Debug\RectanglesBuilderTests.pdb
+C:\Users\jabulaniz\source\repos\Derivco.FullStack.Assignment\RectanglesBuilderTests\bin\Debug\nunit.framework.dll
+C:\Users\jabulaniz\source\repos\Derivco.FullStack.Assignment\RectanglesBuilderTests\bin\Debug\WindowsFormsApp2.exe
+C:\Users\jabulaniz\source\repos\Derivco.FullStack.Assignment\RectanglesBuilderTests\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\jabulaniz\source\repos\Derivco.FullStack.Assignment\RectanglesBuilderTests\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\jabulaniz\source\repos\Derivco.FullStack.Assignment\RectanglesBuilderTests\bin\Debug\nunit.framework.pdb
+C:\Users\jabulaniz\source\repos\Derivco.FullStack.Assignment\RectanglesBuilderTests\bin\Debug\nunit.framework.xml
+C:\Users\jabulaniz\source\repos\Derivco.FullStack.Assignment\RectanglesBuilderTests\obj\Debug\RectanglesBuilderTests.csprojAssemblyReference.cache
+C:\Users\jabulaniz\source\repos\Derivco.FullStack.Assignment\RectanglesBuilderTests\obj\Debug\RectanglesBuilderTests.csproj.CoreCompileInputs.cache
+C:\Users\jabulaniz\source\repos\Derivco.FullStack.Assignment\RectanglesBuilderTests\obj\Debug\RectanglesBuilderTests.csproj.CopyComplete
+C:\Users\jabulaniz\source\repos\Derivco.FullStack.Assignment\RectanglesBuilderTests\obj\Debug\RectanglesBuilderTests.dll
+C:\Users\jabulaniz\source\repos\Derivco.FullStack.Assignment\RectanglesBuilderTests\obj\Debug\RectanglesBuilderTests.pdb
